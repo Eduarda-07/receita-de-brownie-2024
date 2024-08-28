@@ -5,5 +5,30 @@
 }
 h1{
     background-color: rgb(126, 60, 60);
-    
+    color: black;
+    text-align: center;
+    font-size: 50px;
+
+}
+
+.imagem img{
+    width: 700px;
+   
+  
+}
+.imagem{
+    position: relative;
+    margin: 30px;
+}
+body{
+    background-color: rgb(226, 186, 186);
+}
+h2{
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+h3{
+    margin-top: 30px;
+    margin-left: 30px;
 }
